@@ -35,7 +35,7 @@ The following libraries are required:
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/rishraks/Virtual_Keyboard.git
     ```
 2. Install the required libraries:
     ```bash
