@@ -46,7 +46,7 @@ The following libraries are required:
 
 1. Run the script:
     ```bash
-    python <script_name>.py
+    python Virtual_Keyboard.py
     ```
 2. Allow access to your webcam.
 3. Hover your fingertip over the virtual keys (Q or W or anykey) to type them in Notepad.
